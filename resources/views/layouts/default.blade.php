@@ -10,7 +10,9 @@
 </header>
 
 <main role="main">
-
+    <br>
+    <br>
+    <br>
     @yield('content')
     <footer class="row">
         @include('includes.footer')
